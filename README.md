@@ -127,8 +127,8 @@ Balance: $600
 
 ## 📫 Contact
 
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **GitHub:** https://github.com/TAN-UJ05
+- **Email:** tanujjoshi669@gmail.com
 
 ---
 
