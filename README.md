@@ -1,8 +1,6 @@
 # 🏦 Bank Management System
 
 ![C++](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 A **console-based Bank Management System** in C++ to manage bank accounts.  
 It allows creating accounts, depositing and withdrawing money, searching accounts, and displaying all account details.  
@@ -124,6 +122,13 @@ Balance: $600
 - Implement authentication  
 - Include interest calculation and multiple account types  
 - Upgrade to a GUI interface  
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)  
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
