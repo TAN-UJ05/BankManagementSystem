@@ -50,11 +50,11 @@ Manages multiple accounts.
 2. Save your source code as `main.cpp`  
 3. Compile the program:  
 ```bash
-g++ main.cpp -o BankSystem
+g++ main.cpp -o BankManagementSystem
 ```  
 4. Run the program:  
 ```bash
-./BankSystem
+./BankManagementSystem
 ```  
 5. Follow the interactive menu  
 
